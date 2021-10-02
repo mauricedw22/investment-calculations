@@ -6,4 +6,5 @@ for predicting certain asset prices like cryptocurrency, precious metals, and co
 <ul style="list-style-type:circle;">
     <li> Compound Interest formula for Interest-bearing accounts </li>
     <li> Net Present Value formula for discounting future cash flows to present value </li>
+    <li> CAGR (Compound Annual Growth Rate) formula </li>
 </ul>
