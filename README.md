@@ -7,4 +7,5 @@
     <li> Net Present Value formula for discounting future cash flows to present value </li>
     <li> CAGR (Compound Annual Growth Rate) formula </li>
     <li> ROI (Return On Investment) formula </li>
+    <li> Inflation-adjusted Return formula </li>
 </ul>
